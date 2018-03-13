@@ -1,4 +1,4 @@
-# compgi22_dl_cw4
+# COMPGI22 Deep Learning Coursework 4: In-painting task. 
 For your last task, you have to use your (previously) trained models to in-paint: 1 missing pixel or a patch of 2x2 pixels in a MNIST image.
 
 Datasets:
