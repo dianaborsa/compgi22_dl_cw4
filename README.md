@@ -2,8 +2,8 @@
 For your last task, you have to use your (previously) trained models to in-paint: 1 missing pixel or a patch of 2x2 pixels in a MNIST image.
 
 Datasets:
-* One pixel missing: inpainting_data/2X2_pixels_inpainting.npy
-* 2x2 patch missing: inpainting_data/one_pixel_inpainting.npy
+* One pixel missing: 2X2_pixels_inpainting.npy
+* 2x2 patch missing: one_pixel_inpainting.npy
 
 They contain: cropped/missing pixel image and the ground truth(GT) image, that you need to reconstruct.
 
